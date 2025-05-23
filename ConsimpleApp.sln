@@ -4,7 +4,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsimpleWeb", "ConsimpleWe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED1ED5F0-0FF3-4FA6-8082-8BA706CBEB57}"
 	ProjectSection(SolutionItems) = preProject
-		compose.yaml = compose.yaml
+		docker-compose.yml = docker-compose.yml
+		.gitignore = .gitignore
+		.gitattributes = .gitattributes
+		preview-1.png = preview-1.png
+		preview-2.png = preview-2.png
+		preview-3-1.png = preview-3-1.png
+		preview-3-2.png = preview-3-2.png
+		preview-4-1.png = preview-4-1.png
+		preview-4-2.png = preview-4-2.png
+		preview-4-3.png = preview-4-3.png
+		preview-4-4.png = preview-4-4.png
+		README.md = README.md
+		.env.dist = .env.dist
+		.env = .env
+		Dockerfile = Dockerfile
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consimple.Infrastructure", "Consimple.Infrastructure\Consimple.Infrastructure.csproj", "{094A7A5D-9898-41E0-84A2-3D0C3B576059}"

@@ -2,3 +2,5 @@
 */obj/
 /.vs
 /.idea
+/.env
+/desktop.ini
